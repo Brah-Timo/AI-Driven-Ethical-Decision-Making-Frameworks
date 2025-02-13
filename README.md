@@ -2,6 +2,7 @@
 ## Ethics Advisor for Businesses: AI tools that analyze business decisions and suggest ethical implications, helping organizations navigate complex moral landscapes in real-time.
 ## Transparent AI Governance: Platforms that provide organizations with frameworks to ensure AI systems operate ethically and transparently, with built-in accountability mechanisms.
 
+
 ![image](https://github.com/user-attachments/assets/e69bfd04-de39-463a-8b3c-e55422cc44f5)
 
 
